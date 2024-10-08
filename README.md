@@ -22,9 +22,11 @@ A real-time chat platform for instant messaging with user presence indicators.
 - **Authentication**: JWT (JSON Web Token)
 - **Real-time Communication**: WebSocket
 
-## Installation
+## Screenshots
+![chat5](https://github.com/user-attachments/assets/060c8e86-1321-442b-a1f0-c2146d4f0bae)
+![chat4](https://github.com/user-attachments/assets/429e957b-1ee1-40b3-bb21-cf60a4dfa515)
+![chat3](https://github.com/user-attachments/assets/4c5bb451-aed2-48c5-a512-8bb5232563c8)
+![chat2](https://github.com/user-attachments/assets/84039941-9eb4-4a9e-80c1-59176347a5dc)
+![chat1](https://github.com/user-attachments/assets/82d0da4a-81c4-4324-b1af-ae2e0d63f891)
 
-1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/AyaanIqbal0/Chat-client.git
